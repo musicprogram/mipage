@@ -1,0 +1,32 @@
+#content-title {
+  background-color: #CE9B0B;
+  padding: 0 7px 0 8px;
+}
+
+.content-description-span {
+  font-weight: bold;
+}
+
+
+/* logo */
+
+.logo #lessthat{
+  font-size: 100px;
+  font-weight: 650;
+  position: relative;
+  top: 15px;
+  left: 10px;
+  color: #CE9B0B;
+}
+
+.logo #webName{
+  font-size: 70px;
+  font-weight: 100;
+}
+
+.logo #webNameCreators{
+  font-size: 70px;
+  font-weight: 700;
+  color: #CE9B0B;
+}
+
